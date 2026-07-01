@@ -1,6 +1,6 @@
 import werkzeug.local
 import flask
-from django.contrib.admin.templatetags.admin_list import admin_actions
+
 
 
 # 1. Create a dummy LocalStack that mimics the old Werkzeug behavior
